@@ -1,0 +1,22 @@
+
+.transaction_history {
+    width: 600px;
+}
+
+.transaction-history {
+    margin: auto;
+    width: 500px;
+  }
+  
+  .table_head {
+    background-color: blue;
+    color: white;
+    height: 2rem;
+  }
+  
+  .row:nth-child(2n) {
+    background-color: lightblue;
+  }
+  .row:nth-child(2n-1) {
+    background-color: lightcyan;
+  }
